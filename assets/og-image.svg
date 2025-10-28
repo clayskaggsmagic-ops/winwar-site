@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0c0e"/>
+  <text x="600" y="280" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#f4f4f2" text-anchor="middle">Tenju Solutions</text>
+  <text x="600" y="360" font-family="system-ui, sans-serif" font-size="28" fill="#c7c7c5" text-anchor="middle" font-style="italic">Between invention and transformation.</text>
+  <line x1="400" y1="400" x2="800" y2="400" stroke="#3b6f8f" stroke-width="3"/>
+</svg>
